@@ -4,7 +4,7 @@ module testbench;
   wire [3:0] G, P, C, S;
   wire Cout;
   
-  four_bit_cla DUT (A, B, Cin, G, P, C, S, Cout);
+  CLA_four_bit DUT (A, B, Cin, G, P, C, S, Cout);
 
   initial begin
     A = 4'b0000; B = 4'b0000; Cin = 0;

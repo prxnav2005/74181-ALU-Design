@@ -1,7 +1,7 @@
 # 74181-ALU-Design
 
 ## Description
-The 74181 is said to be the first ALU design introduced as a standalone integraded circuit by Texas Instruments in the year 1966.
+The 74181 is said to be the first ALU design introduced as a standalone integrated circuit by Texas Instruments in the year 1966.
 
 
 It is designed for performing various arithmetic and logical operations such as addition, subtraction, AND, OR, XOR, and complement, all controlled via a set of input signals that define the desired operation. With the ability to handle 4-bit binary numbers and offering features like carry-in and carry-out for multi-bit operations, the 74181 is particularly useful in applications requiring efficient data manipulation and processing.
